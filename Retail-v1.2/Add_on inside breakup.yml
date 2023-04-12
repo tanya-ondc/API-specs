@@ -51,6 +51,54 @@
                   "currency":"INR",
                   "value":"109"
                 }
+            },
+            {
+              "id": :"A1G1",
+              "descriptor":
+                {
+                  "name": "Tax"
+                },
+              "price":
+                {
+                  "currency":"INR",
+                  "value":"1.5"
+                }
+            },
+            {
+              "id": :"A1G2",
+              "descriptor":
+                {
+                  "name": "Tax"
+                },
+              "price":
+                {
+                  "currency":"INR",
+                  "value":"3"
+                }
+            },
+            {
+              "id": :"A1G3",
+              "descriptor":
+                {
+                  "name": "Tax"
+                },
+              "price":
+                {
+                  "currency":"INR",
+                  "value":"3"
+                }
+            },
+            {
+              "id": :"A1G4",
+              "descriptor":
+                {
+                  "name": "Tax"
+                },
+              "price":
+                {
+                  "currency":"INR",
+                  "value":"5.5"
+                }
             }
           ]        
       }
