@@ -1,0 +1,26 @@
+"breakup":
+  [
+    {
+      "item":
+        {
+          "id": "L1",
+          "descriptor":
+            {
+              "name": "Veg Pizza"
+            },
+          "quantity": 
+          {
+            "allocated": 
+            {
+              "count": 1
+            }
+          },
+          "price":
+          {
+            "currency":"INR",
+            "value":"0.00"
+          }
+        },
+      "title": "Offer"
+    }
+  ]
