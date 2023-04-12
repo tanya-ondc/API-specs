@@ -1,0 +1,106 @@
+"breakup":
+  [
+    {
+      "item":
+        {
+          "id": "L1",
+          "quantity": 
+          {
+            "allocated": 
+            {
+              "count": 2
+            },
+            "available":
+            {
+              "count":"2"
+            },
+            "maximum":
+            {
+              "count":"2"
+            }
+          },
+          "price":
+          {
+            "currency":"INR",
+            "value":"600.00"
+          }
+        },
+      "title": "Veg Pizza",
+      "price":
+        {
+          "currency":"INR",
+          "value": "1200.00"
+        }
+    },
+    {
+      "item":
+        {
+          "id": "L1",
+          "descriptor":
+            {
+              "name": "Veg Pizza"
+            },
+          "quantity": 
+          {
+            "allocated": 
+            {
+              "count": 1
+            }
+          },
+          "price":
+          {
+            "currency":"INR",
+            "value":"0.00"
+          }
+        },
+      "title": "Offer"
+    },
+    {
+      "item":
+        {
+          "id": "F1",
+          "price":
+          {
+            "currency":"INR",
+            "value":"50"
+          }
+        },
+      "title": "Delivery Charges"
+    },
+    {
+      "item":
+        {
+          "id": "F1",
+          "price":
+          {
+            "currency":"INR",
+            "value":"50"
+          }
+        },
+      "title": "Packaging Charges"
+    },
+    {
+      "item":
+        {
+          "id": "L1",
+          "price":
+          {
+            "currency":"INR",
+            "value":"90"
+          }
+        },
+      "title": "Tax"
+    },
+    {
+      "item":
+        {
+          "id": "F1",
+          "price":
+          {
+            "currency":"INR",
+            "value":"0"
+          }
+        },
+      "title": "Convenience Fee"
+    }
+  ]
