@@ -1,0 +1,57 @@
+"breakup":
+  [{
+    "items":
+      {
+        add_ons:
+          [
+            {
+              "id": :"A1G1",
+              "descriptor":
+                {
+                  "name": "Caramelized Onion"
+                },
+              "price":
+                {
+                  "currency":"INR",
+                  "value":"30"
+                }
+            },
+            {
+              "id": :"A1G2",
+              "descriptor":
+                {
+                  "name": "Honey Mustard"
+                },
+              "price":
+                {
+                  "currency":"INR",
+                  "value":"60"
+                }
+            },
+            {
+              "id": :"A1G3",
+              "descriptor":
+                {
+                  "name": "Coke"
+                },
+              "price":
+                {
+                  "currency":"INR",
+                  "value":"60"
+                }
+            },
+            {
+              "id": :"A1G4",
+              "descriptor":
+                {
+                  "name": "Choco Lava Cake"
+                },
+              "price":
+                {
+                  "currency":"INR",
+                  "value":"109"
+                }
+            }
+          ]        
+      }
+  }]
